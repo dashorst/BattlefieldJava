@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import junit.framework.TestCase;
 
@@ -37,7 +37,7 @@ public class PieceTest extends TestCase
 		
 		// Test the for intermediate points of the compass
 		direction = Direction.getDirectionTo(10, 10, 11, 11);
-		assertTrue(direction == Direction.MOVE_SE);
+		assertEquals(direction, Direction.MOVE_SE);
 		direction = Direction.getDirectionTo(10, 10, 11, 9);
 		assertTrue(direction == Direction.MOVE_NE);
 		direction = Direction.getDirectionTo(10, 10, 9, 9);
@@ -48,10 +48,4 @@ public class PieceTest extends TestCase
 		// TODO Test the boundary cases
 		// 
 	}
-
-	public static void main(String[] args)
-	{
-		junit.swingui.TestRunner.run(PieceTest.class);
-	}
-
 }

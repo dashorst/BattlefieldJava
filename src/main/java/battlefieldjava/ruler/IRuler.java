@@ -1,4 +1,4 @@
-package au.com.noojee.battlefieldjava.ruler;
+package battlefieldjava.ruler;
 
 
 

@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.awt.BorderLayout;
 import java.io.File;
@@ -26,16 +26,16 @@ import javax.swing.JSplitPane;
 import javax.swing.JTabbedPane;
 import javax.swing.SwingUtilities;
 
-import au.com.noojee.battlefieldjava.config.Loader;
-import au.com.noojee.battlefieldjava.engine.GameSettings;
-import au.com.noojee.battlefieldjava.engine.Ruler;
-import au.com.noojee.battlefieldjava.engine.RulerType;
-import au.com.noojee.battlefieldjava.engine.TurnListener;
-import au.com.noojee.battlefieldjava.engine.UserCancelledBattle;
-import au.com.noojee.battlefieldjava.engine.World;
-import au.com.noojee.battlefieldjava.images.ImageLoader;
-import au.com.noojee.battlefieldjava.occupants.Castle;
-import au.com.noojee.battlefieldjava.ruler.IRuler;
+import battlefieldjava.config.Loader;
+import battlefieldjava.engine.GameSettings;
+import battlefieldjava.engine.Ruler;
+import battlefieldjava.engine.RulerType;
+import battlefieldjava.engine.TurnListener;
+import battlefieldjava.engine.UserCancelledBattle;
+import battlefieldjava.engine.World;
+import battlefieldjava.images.ImageLoader;
+import battlefieldjava.occupants.Castle;
+import battlefieldjava.ruler.IRuler;
 
 
 

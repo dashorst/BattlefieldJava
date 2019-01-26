@@ -1,11 +1,11 @@
-package au.com.noojee.battlefieldjava.occupants;
+package battlefieldjava.occupants;
 
 import java.awt.Image;
 import java.io.PrintStream;
 
-import au.com.noojee.battlefieldjava.engine.Direction;
-import au.com.noojee.battlefieldjava.engine.Location;
-import au.com.noojee.battlefieldjava.ruler.IOccupant;
+import battlefieldjava.engine.Direction;
+import battlefieldjava.engine.Location;
+import battlefieldjava.ruler.IOccupant;
 
 /**
  * Anything that can occupy a postion on the battlefield.

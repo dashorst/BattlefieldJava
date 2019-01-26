@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -17,8 +17,8 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-import au.com.noojee.battlefieldjava.engine.Ruler;
-import au.com.noojee.battlefieldjava.engine.World;
+import battlefieldjava.engine.Ruler;
+import battlefieldjava.engine.World;
 
 
 /**

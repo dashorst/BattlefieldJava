@@ -1,12 +1,12 @@
-package au.com.noojee.battlefieldjava.defaultPieces;
+package battlefieldjava.defaultPieces;
 
-import au.com.noojee.battlefieldjava.engine.Direction;
-import au.com.noojee.battlefieldjava.engine.World;
-import au.com.noojee.battlefieldjava.occupants.Piece;
-import au.com.noojee.battlefieldjava.ruler.IKnight;
-import au.com.noojee.battlefieldjava.ruler.ILocation;
-import au.com.noojee.battlefieldjava.ruler.IPiece;
-import au.com.noojee.battlefieldjava.ruler.IWorld;
+import battlefieldjava.engine.Direction;
+import battlefieldjava.engine.World;
+import battlefieldjava.occupants.Piece;
+import battlefieldjava.ruler.IKnight;
+import battlefieldjava.ruler.ILocation;
+import battlefieldjava.ruler.IPiece;
+import battlefieldjava.ruler.IWorld;
 
 
 public class DefaultKnight implements IKnight

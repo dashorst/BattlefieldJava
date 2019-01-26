@@ -13,7 +13,7 @@
  * Created on 20 September 2002, 16:52
  */
 
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.awt.Component;
 import java.awt.Cursor;

@@ -1,12 +1,12 @@
-package au.com.noojee.battlefieldjava.defaultPieces;
+package battlefieldjava.defaultPieces;
 
 import java.awt.Image;
 
-import au.com.noojee.battlefieldjava.engine.Direction;
-import au.com.noojee.battlefieldjava.ruler.ICastle;
-import au.com.noojee.battlefieldjava.ruler.ILocation;
-import au.com.noojee.battlefieldjava.ruler.IPiece;
-import au.com.noojee.battlefieldjava.ruler.IWorld;
+import battlefieldjava.engine.Direction;
+import battlefieldjava.ruler.ICastle;
+import battlefieldjava.ruler.ILocation;
+import battlefieldjava.ruler.IPiece;
+import battlefieldjava.ruler.IWorld;
 
 public class DefaultCastle implements ICastle
 {

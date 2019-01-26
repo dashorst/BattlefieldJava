@@ -4,9 +4,9 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ruler;
+package battlefieldjava.ruler;
 
-import au.com.noojee.battlefieldjava.engine.Direction;
+import battlefieldjava.engine.Direction;
 
 
 /**

@@ -1,6 +1,6 @@
-package au.com.noojee.battlefieldjava.ruler;
+package battlefieldjava.ruler;
 
-import au.com.noojee.battlefieldjava.engine.Direction;
+import battlefieldjava.engine.Direction;
 
 public interface IWorld
 {

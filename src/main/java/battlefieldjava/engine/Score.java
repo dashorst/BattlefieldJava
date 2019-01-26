@@ -16,7 +16,7 @@
  * Castle	25 points
  * Land	1 point per 10 squares
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 
 

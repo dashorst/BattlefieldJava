@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-import au.com.noojee.battlefieldjava.engine.GameSettings;
+import battlefieldjava.engine.GameSettings;
 
 
 /**

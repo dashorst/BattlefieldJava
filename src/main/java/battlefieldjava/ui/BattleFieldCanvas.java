@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -18,16 +18,16 @@ import java.awt.font.FontRenderContext;
 
 import javax.swing.JComponent;
 
-import au.com.noojee.battlefieldjava.engine.GameSettings;
-import au.com.noojee.battlefieldjava.engine.Grid;
-import au.com.noojee.battlefieldjava.engine.Location;
-import au.com.noojee.battlefieldjava.engine.LocationIterator;
-import au.com.noojee.battlefieldjava.engine.Ruler;
-import au.com.noojee.battlefieldjava.engine.World;
-import au.com.noojee.battlefieldjava.images.ImageLoader;
-import au.com.noojee.battlefieldjava.occupants.Knight;
-import au.com.noojee.battlefieldjava.occupants.Occupant;
-import au.com.noojee.battlefieldjava.occupants.Piece;
+import battlefieldjava.engine.GameSettings;
+import battlefieldjava.engine.Grid;
+import battlefieldjava.engine.Location;
+import battlefieldjava.engine.LocationIterator;
+import battlefieldjava.engine.Ruler;
+import battlefieldjava.engine.World;
+import battlefieldjava.images.ImageLoader;
+import battlefieldjava.occupants.Knight;
+import battlefieldjava.occupants.Occupant;
+import battlefieldjava.occupants.Piece;
 
 /**
  * @author bsutton

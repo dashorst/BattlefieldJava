@@ -1,8 +1,8 @@
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
-import au.com.noojee.battlefieldjava.ruler.ILocation;
-import au.com.noojee.battlefieldjava.ruler.IPiece;
-import au.com.noojee.battlefieldjava.ruler.IRuler;
+import battlefieldjava.ruler.ILocation;
+import battlefieldjava.ruler.IPiece;
+import battlefieldjava.ruler.IRuler;
 
 public class ILocationImpl implements ILocation
 {

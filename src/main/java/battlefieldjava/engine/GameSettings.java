@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -12,7 +12,7 @@ import java.io.ObjectOutputStream;
 
 import org.apache.commons.configuration.ConfigurationException;
 
-import au.com.noojee.battlefieldjava.config.Loader;
+import battlefieldjava.config.Loader;
 
 /**
  * @author bsutton

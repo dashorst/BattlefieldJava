@@ -4,14 +4,14 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import javax.swing.DefaultListModel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.SwingUtilities;
 
-import au.com.noojee.battlefieldjava.engine.Event;
+import battlefieldjava.engine.Event;
 
 
 

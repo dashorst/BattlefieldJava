@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.config;
+package battlefieldjava.config;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,8 +15,8 @@ import javax.swing.JOptionPane;
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.XMLConfiguration;
 
-import au.com.noojee.battlefieldjava.engine.GameSettings;
-import au.com.noojee.battlefieldjava.engine.RulerType;
+import battlefieldjava.engine.GameSettings;
+import battlefieldjava.engine.RulerType;
 
 /**
  * @author bsutton

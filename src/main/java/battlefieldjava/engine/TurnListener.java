@@ -3,7 +3,7 @@
  *
  * Used to notify an interested party regarding specific turn events.
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 
 

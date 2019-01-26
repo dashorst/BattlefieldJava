@@ -1,4 +1,4 @@
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 public enum Compass
 {

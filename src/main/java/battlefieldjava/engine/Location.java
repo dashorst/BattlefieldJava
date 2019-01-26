@@ -4,13 +4,13 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import java.io.PrintStream;
 
-import au.com.noojee.battlefieldjava.occupants.Occupant;
-import au.com.noojee.battlefieldjava.occupants.Piece;
-import au.com.noojee.battlefieldjava.ruler.ILocation;
+import battlefieldjava.occupants.Occupant;
+import battlefieldjava.occupants.Piece;
+import battlefieldjava.ruler.ILocation;
 
 /**
  * @author bsutton

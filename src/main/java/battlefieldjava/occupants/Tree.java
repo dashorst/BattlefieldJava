@@ -1,9 +1,9 @@
-package au.com.noojee.battlefieldjava.occupants;
+package battlefieldjava.occupants;
 
 import java.awt.Image;
 
-import au.com.noojee.battlefieldjava.images.ImageLoader;
-import au.com.noojee.battlefieldjava.ruler.IOccupant;
+import battlefieldjava.images.ImageLoader;
+import battlefieldjava.ruler.IOccupant;
 
 public class Tree extends Occupant
 {

@@ -1,6 +1,6 @@
-package au.com.noojee.battlefieldjava.occupants;
+package battlefieldjava.occupants;
 
-import au.com.noojee.battlefieldjava.ruler.IOccupant;
+import battlefieldjava.ruler.IOccupant;
 
 public class ITreeImpl implements IOccupant
 {

@@ -4,19 +4,19 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.occupants;
+package battlefieldjava.occupants;
 
 
-import au.com.noojee.battlefieldjava.engine.Direction;
-import au.com.noojee.battlefieldjava.engine.Event;
-import au.com.noojee.battlefieldjava.engine.GameSettings;
-import au.com.noojee.battlefieldjava.engine.IllegalMoveError;
-import au.com.noojee.battlefieldjava.engine.IllegalOperationError;
-import au.com.noojee.battlefieldjava.engine.Location;
-import au.com.noojee.battlefieldjava.engine.Ruler;
-import au.com.noojee.battlefieldjava.engine.World;
-import au.com.noojee.battlefieldjava.ruler.IPiece;
-import au.com.noojee.battlefieldjava.ui.EventLogWindow;
+import battlefieldjava.engine.Direction;
+import battlefieldjava.engine.Event;
+import battlefieldjava.engine.GameSettings;
+import battlefieldjava.engine.IllegalMoveError;
+import battlefieldjava.engine.IllegalOperationError;
+import battlefieldjava.engine.Location;
+import battlefieldjava.engine.Ruler;
+import battlefieldjava.engine.World;
+import battlefieldjava.ruler.IPiece;
+import battlefieldjava.ui.EventLogWindow;
 
 
 

@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import junit.framework.TestCase;
 
@@ -29,10 +29,4 @@ public class KnightTest extends TestCase
 //			assertTrue(attackValue <= Knight.MAX_ATTACK_STRENGTH);
 //		}
 	}
-
-	public static void main(String[] args)
-	{
-		junit.swingui.TestRunner.run(KnightTest.class);
-	}
-
 }

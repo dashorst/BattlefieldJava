@@ -4,10 +4,10 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.occupants;
+package battlefieldjava.occupants;
 
-import au.com.noojee.battlefieldjava.engine.Ruler;
-import au.com.noojee.battlefieldjava.ruler.IPiece;
+import battlefieldjava.engine.Ruler;
+import battlefieldjava.ruler.IPiece;
 
 /**
  * @author bsutton

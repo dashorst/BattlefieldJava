@@ -5,7 +5,7 @@
  * Copyright (C) 2001 Jurgen Prokein
  */
 
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.awt.Component;
 import java.awt.Dimension;

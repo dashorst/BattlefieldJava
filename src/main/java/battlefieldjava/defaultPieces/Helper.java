@@ -1,4 +1,4 @@
-package au.com.noojee.battlefieldjava.defaultPieces;
+package battlefieldjava.defaultPieces;
 
 
 public class Helper

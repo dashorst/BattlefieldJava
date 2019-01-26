@@ -4,13 +4,13 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.awt.BorderLayout;
 
 import javax.swing.JPanel;
 
-import au.com.noojee.battlefieldjava.engine.Location;
+import battlefieldjava.engine.Location;
 
 
 

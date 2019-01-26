@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.util.Iterator;
 
@@ -17,8 +17,8 @@ import javax.swing.JList;
 import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 
-import au.com.noojee.battlefieldjava.config.Loader;
-import au.com.noojee.battlefieldjava.engine.RulerType;
+import battlefieldjava.config.Loader;
+import battlefieldjava.engine.RulerType;
 
 
 /**

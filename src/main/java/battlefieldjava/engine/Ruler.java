@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import java.awt.AlphaComposite;
 import java.awt.Color;
@@ -16,15 +16,15 @@ import java.util.ArrayList;
 
 import javax.swing.ImageIcon;
 
-import au.com.noojee.battlefieldjava.images.ImageLoader;
-import au.com.noojee.battlefieldjava.occupants.Castle;
-import au.com.noojee.battlefieldjava.occupants.Knight;
-import au.com.noojee.battlefieldjava.occupants.Occupant;
-import au.com.noojee.battlefieldjava.occupants.Peasant;
-import au.com.noojee.battlefieldjava.occupants.Piece;
-import au.com.noojee.battlefieldjava.ruler.ICastle;
-import au.com.noojee.battlefieldjava.ruler.IRuler;
-import au.com.noojee.battlefieldjava.ui.EventLogWindow;
+import battlefieldjava.images.ImageLoader;
+import battlefieldjava.occupants.Castle;
+import battlefieldjava.occupants.Knight;
+import battlefieldjava.occupants.Occupant;
+import battlefieldjava.occupants.Peasant;
+import battlefieldjava.occupants.Piece;
+import battlefieldjava.ruler.ICastle;
+import battlefieldjava.ruler.IRuler;
+import battlefieldjava.ui.EventLogWindow;
 
 
 /**

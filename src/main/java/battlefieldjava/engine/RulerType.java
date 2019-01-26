@@ -4,14 +4,14 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import java.awt.Color;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-import au.com.noojee.battlefieldjava.ruler.IRuler;
-import au.com.noojee.battlefieldjava.ruler.IWorld;
+import battlefieldjava.ruler.IRuler;
+import battlefieldjava.ruler.IWorld;
 
 
 

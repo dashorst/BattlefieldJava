@@ -4,7 +4,7 @@
  * A simple exception used to indicate that a user wishes to cancel the
  * current battle.
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 
 /**

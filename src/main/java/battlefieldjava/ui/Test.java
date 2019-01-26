@@ -4,14 +4,14 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTabbedPane;
 
-import au.com.noojee.battlefieldjava.engine.GameSettings;
-import au.com.noojee.battlefieldjava.engine.World;
+import battlefieldjava.engine.GameSettings;
+import battlefieldjava.engine.World;
 
 
 

@@ -4,14 +4,14 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package au.com.noojee.battlefieldjava.occupants;
+package battlefieldjava.occupants;
 
 import java.awt.Image;
 
-import au.com.noojee.battlefieldjava.engine.GameSettings;
-import au.com.noojee.battlefieldjava.engine.Ruler;
-import au.com.noojee.battlefieldjava.images.ImageLoader;
-import au.com.noojee.battlefieldjava.ruler.IPeasant;
+import battlefieldjava.engine.GameSettings;
+import battlefieldjava.engine.Ruler;
+import battlefieldjava.images.ImageLoader;
+import battlefieldjava.ruler.IPeasant;
 
 
 

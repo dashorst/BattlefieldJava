@@ -11,7 +11,7 @@
  * The top of the page is considered North with the bottom being South.
  * The left of the page is considered West with the right hand side being East. 
  */
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import java.awt.Container;
 import java.awt.Point;
@@ -22,20 +22,20 @@ import java.util.Vector;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-import au.com.noojee.battlefieldjava.occupants.Castle;
-import au.com.noojee.battlefieldjava.occupants.ITreeImpl;
-import au.com.noojee.battlefieldjava.occupants.Knight;
-import au.com.noojee.battlefieldjava.occupants.Occupant;
-import au.com.noojee.battlefieldjava.occupants.Peasant;
-import au.com.noojee.battlefieldjava.occupants.Piece;
-import au.com.noojee.battlefieldjava.occupants.Tree;
-import au.com.noojee.battlefieldjava.ruler.ILocation;
-import au.com.noojee.battlefieldjava.ruler.IPiece;
-import au.com.noojee.battlefieldjava.ruler.IWorld;
-import au.com.noojee.battlefieldjava.ui.BattleField;
-import au.com.noojee.battlefieldjava.ui.Utilities;
-import au.com.noojee.battlefieldjava.ui.VictoryDialog;
-import au.com.noojee.battlefieldjava.usermapping.UserWorld;
+import battlefieldjava.occupants.Castle;
+import battlefieldjava.occupants.ITreeImpl;
+import battlefieldjava.occupants.Knight;
+import battlefieldjava.occupants.Occupant;
+import battlefieldjava.occupants.Peasant;
+import battlefieldjava.occupants.Piece;
+import battlefieldjava.occupants.Tree;
+import battlefieldjava.ruler.ILocation;
+import battlefieldjava.ruler.IPiece;
+import battlefieldjava.ruler.IWorld;
+import battlefieldjava.ui.BattleField;
+import battlefieldjava.ui.Utilities;
+import battlefieldjava.ui.VictoryDialog;
+import battlefieldjava.usermapping.UserWorld;
 
 /**
  * @author bsutton

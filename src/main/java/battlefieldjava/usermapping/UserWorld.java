@@ -7,29 +7,29 @@
  * to the real World object.
  * 
  */
-package au.com.noojee.battlefieldjava.usermapping;
+package battlefieldjava.usermapping;
 
 import java.util.Vector;
 
-import au.com.noojee.battlefieldjava.engine.Direction;
-import au.com.noojee.battlefieldjava.engine.Location;
-import au.com.noojee.battlefieldjava.engine.Ruler;
-import au.com.noojee.battlefieldjava.engine.World;
-import au.com.noojee.battlefieldjava.occupants.Castle;
-import au.com.noojee.battlefieldjava.occupants.Knight;
-import au.com.noojee.battlefieldjava.occupants.MobilePiece;
-import au.com.noojee.battlefieldjava.occupants.Occupant;
-import au.com.noojee.battlefieldjava.occupants.Peasant;
-import au.com.noojee.battlefieldjava.occupants.Piece;
-import au.com.noojee.battlefieldjava.ruler.ICastle;
-import au.com.noojee.battlefieldjava.ruler.IKnight;
-import au.com.noojee.battlefieldjava.ruler.ILocation;
-import au.com.noojee.battlefieldjava.ruler.IMobilePiece;
-import au.com.noojee.battlefieldjava.ruler.IOccupant;
-import au.com.noojee.battlefieldjava.ruler.IPeasant;
-import au.com.noojee.battlefieldjava.ruler.IPiece;
-import au.com.noojee.battlefieldjava.ruler.IRuler;
-import au.com.noojee.battlefieldjava.ruler.IWorld;
+import battlefieldjava.engine.Direction;
+import battlefieldjava.engine.Location;
+import battlefieldjava.engine.Ruler;
+import battlefieldjava.engine.World;
+import battlefieldjava.occupants.Castle;
+import battlefieldjava.occupants.Knight;
+import battlefieldjava.occupants.MobilePiece;
+import battlefieldjava.occupants.Occupant;
+import battlefieldjava.occupants.Peasant;
+import battlefieldjava.occupants.Piece;
+import battlefieldjava.ruler.ICastle;
+import battlefieldjava.ruler.IKnight;
+import battlefieldjava.ruler.ILocation;
+import battlefieldjava.ruler.IMobilePiece;
+import battlefieldjava.ruler.IOccupant;
+import battlefieldjava.ruler.IPeasant;
+import battlefieldjava.ruler.IPiece;
+import battlefieldjava.ruler.IRuler;
+import battlefieldjava.ruler.IWorld;
 
 public class UserWorld implements IWorld
 {

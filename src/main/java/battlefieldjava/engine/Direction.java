@@ -1,8 +1,8 @@
-package au.com.noojee.battlefieldjava.engine;
+package battlefieldjava.engine;
 
 import java.util.Random;
 
-import au.com.noojee.battlefieldjava.ruler.ILocation;
+import battlefieldjava.ruler.ILocation;
 
 public enum Direction
 {

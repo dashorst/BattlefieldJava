@@ -10,7 +10,7 @@
  * Created on 27 December 2001, 18:29
  */
 
-package au.com.noojee.battlefieldjava.ui;
+package battlefieldjava.ui;
 
 import java.io.File;
 import java.io.Serializable;
