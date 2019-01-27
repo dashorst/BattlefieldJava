@@ -6,6 +6,7 @@ import battlefieldjava.ruler.ILocation;
 
 public enum Direction
 {
+	MOVE_NONE(0), // do nothing (used to cancel a move)
 	MOVE_N(1), // north
 	MOVE_NE(2), // northeast
 	MOVE_E(3), // east
@@ -13,8 +14,7 @@ public enum Direction
 	MOVE_S(5), // south
 	MOVE_SW(6), // south west
 	MOVE_W(7), // west
-	MOVE_NW(8), // north west
-	MOVE_NONE(0); // do nothing (used to cancel a move)
+	MOVE_NW(8); // north west
 
 	static Random rdm = new Random();
 
